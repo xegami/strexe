@@ -11,5 +11,5 @@ https://mega.nz/#!YNshxKqT!4Od9C08X6hPrXSQYmiHXlcZiB5Wl2fnp-zoPQrV8ikI
 
 
 __updates__
-v0.2 -> 2 new resolutions: 1280x768 and 1024x768.
-v0.1 -> strexe.
+- v0.2 -> 2 new resolutions: 1280x768 and 1024x768.
+- v0.1 -> strexe.
