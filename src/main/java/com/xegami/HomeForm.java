@@ -22,7 +22,7 @@ public class HomeForm extends JFrame {
 
     public HomeForm() {
         add(rootPanel);
-        setTitle("Strexe");
+        setTitle("strexe");
         setSize(500, 400);
         addFocusListener(new FocusListener() {
             @Override

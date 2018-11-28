@@ -67,6 +67,8 @@
                 <item value="1440x1080"/>
                 <item value="1280x1080"/>
                 <item value="1080x1080"/>
+                <item value="1280x768"/>
+                <item value="1024x768"/>
               </model>
             </properties>
           </component>

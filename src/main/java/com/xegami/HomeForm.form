@@ -3,7 +3,7 @@
   <grid id="27dc6" binding="rootPanel" layout-manager="GridLayoutManager" row-count="4" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
     <margin top="0" left="0" bottom="0" right="0"/>
     <constraints>
-      <xy x="20" y="20" width="500" height="400"/>
+      <xy x="20" y="20" width="526" height="400"/>
     </constraints>
     <properties/>
     <border type="none"/>
@@ -27,7 +27,7 @@
             <properties>
               <font name="Fira Code" size="24" style="1"/>
               <horizontalAlignment value="0"/>
-              <text value="Strexe"/>
+              <text value="strexe"/>
               <verticalAlignment value="0"/>
             </properties>
           </component>
@@ -40,7 +40,7 @@
             <properties>
               <font name="Fira Code" size="12" style="2"/>
               <horizontalAlignment value="0"/>
-              <text value="Cambia la resolución de Fortnite a la que te salga de los huevos"/>
+              <text value="Cambia la resolución de Fortnite a la que te salga de los huevos :poggers:"/>
             </properties>
           </component>
           <vspacer id="fe41d">
@@ -158,8 +158,8 @@
           <component id="b79c9" class="javax.swing.JLabel">
             <constraints border-constraint="East"/>
             <properties>
-              <font name="Fira Code" size="9" style="2"/>
-              <text value="Xegami (Enmanuel Domínguez) - 0.1v"/>
+              <font name="Fira Code" size="9" style="0"/>
+              <text value="Xegami (Enmanuel Domínguez) - v0.2    "/>
             </properties>
           </component>
         </children>
