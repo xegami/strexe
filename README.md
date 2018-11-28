@@ -7,4 +7,4 @@ Cambia tu resolución personalizada de Fortnite con tan solo 2 izi clicks.
 
 
 ###### Download it:
-https://mega.nz/#!4Y0UwQAQ!ekzIbBufXOWUe_fyO2VNw89XoC5kddf-Eay7g8GT30o
+https://mega.nz/#!YNshxKqT!4Od9C08X6hPrXSQYmiHXlcZiB5Wl2fnp-zoPQrV8ikI
