@@ -159,7 +159,7 @@
             <constraints border-constraint="East"/>
             <properties>
               <font name="Fira Code" size="9" style="0"/>
-              <text value="Xegami (Enmanuel Domínguez) - v0.2    "/>
+              <text value="Xegami (Enmanuel Domínguez) - v0.3    "/>
             </properties>
           </component>
         </children>

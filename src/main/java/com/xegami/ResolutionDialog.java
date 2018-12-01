@@ -68,6 +68,8 @@ public class ResolutionDialog extends JDialog {
                         line = line.split("=")[0] + "=" + resolutionsCB.getSelectedItem().toString().split("x")[0];
                     } else if (line.contains("ResolutionSizeY")) {
                         line = line.split("=")[0] + "=" + resolutionsCB.getSelectedItem().toString().split("x")[1];
+                    } else if (line.contains("FullscreenMode")) {
+                        line = line.split("=")[0] + "=" + Constants.FULLSCREEN_MODE;
                     }
                     output.write(line + "\n");
                 }
