@@ -1,9 +1,5 @@
 # strexe
-Change your custom Fortnite resolution with just 2 izi clicks.
-**Remember that ```strexe``` can't change your NVIDIA/AMD settings that you maybe need to.**
-
-Cambia tu resolución personalizada de Fortnite con tan solo 2 izi clicks.
-**Recuerda que ```strexe``` no puede cambiar tus ajustes de NVIDIA/AMD que tú probablemente debas.**
+Remember that you have to create a **custom resolution** in your NVIDIA/AMD control panel.
 
 
 ###### Download it:
