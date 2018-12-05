@@ -1,5 +1,5 @@
 # strexe
-Remember that you have to create a **custom resolution** in your NVIDIA/AMD control panel.
+Remember that you have to create a **custom resolution** in your NVIDIA/AMD control panel to make this work.
 
 
 ###### Download it:
