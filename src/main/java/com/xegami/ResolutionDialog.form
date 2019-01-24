@@ -64,7 +64,11 @@
             <properties>
               <model>
                 <item value="1600x1080"/>
+                <item value="1444x1080"/>
                 <item value="1440x1080"/>
+                <item value="1350x1080"/>
+                <item value="1279x1080"/>
+                <item value="1153x1080"/>
                 <item value="1280x1080"/>
                 <item value="1080x1080"/>
                 <item value="1280x768"/>
